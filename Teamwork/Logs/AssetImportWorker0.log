@@ -22,7 +22,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58632
+59381
 Successfully changed project path to: /Users/suqing/Desktop/JYNB/Teamwork
 /Users/suqing/Desktop/JYNB/Teamwork
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,11 +54,11 @@ Successfully changed project path to: /Users/suqing/Desktop/JYNB/Teamwork
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4864542208] Host "[IP] 192.168.0.203 [Port] 0 [Flags] 2 [Guid] 1510000485 [EditorId] 1510000485 [Version] 1048832 [Id] OSXEditor(0,suqingdeMBP) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4650812928] Host "[IP] 192.168.0.203 [Port] 0 [Flags] 2 [Guid] 164092611 [EditorId] 164092611 [Version] 1048832 [Id] OSXEditor(0,suqingdeMBP) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4864542208] Host "[IP] 192.168.0.203 [Port] 0 [Flags] 2 [Guid] 1510000485 [EditorId] 1510000485 [Version] 1048832 [Id] OSXEditor(0,suqingdeMBP) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4650812928] Host "[IP] 192.168.0.203 [Port] 0 [Flags] 2 [Guid] 164092611 [EditorId] 164092611 [Version] 1048832 [Id] OSXEditor(0,suqingdeMBP) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 123.55 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 118.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.21f1 (1b156197d683)
 [Subsystems] Discovering subsystems at path /Users/suqing/Documents/2021.3.21f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -73,78 +73,78 @@ Initialize mono
 Mono path[0] = '/Users/suqing/Documents/2021.3.21f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Users/suqing/Documents/2021.3.21f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Users/suqing/Documents/2021.3.21f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56089
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56061
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Users/suqing/Documents/2021.3.21f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Users/suqing/Documents/2021.3.21f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001373 seconds.
+Registered in 0.003334 seconds.
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 114.68 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 104.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.890 seconds
+- Completed reload, in  0.951 seconds
 Domain Reload Profiling:
-	ReloadAssembly (891ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (952ms)
+		BeginReloadAssembly (164ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		EndReloadAssembly (650ms)
-			LoadAssemblies (94ms)
+			LoadAssemblies (166ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (175ms)
+			SetupTypeCache (164ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (370ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (365ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (115ms)
+				RefreshPlugins (104ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (190ms)
-				ProcessInitializeOnLoadMethodAttributes (55ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002196 seconds.
+Registered in 0.011971 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/suqing/Desktop/JYNB/Teamwork/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/suqing/Desktop/JYNB/Teamwork/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 123.01 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 101.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.737 seconds
+- Completed reload, in  1.723 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1738ms)
+	ReloadAssembly (1724ms)
 		BeginReloadAssembly (158ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
-			ReleaseScriptingObjects (1ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1424ms)
-			LoadAssemblies (93ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1381ms)
+			LoadAssemblies (192ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (447ms)
+			SetupTypeCache (451ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (101ms)
-			SetupLoadedEditorAssemblies (719ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (592ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (123ms)
-				BeforeProcessingInitializeOnLoad (124ms)
-				ProcessInitializeOnLoadAttributes (341ms)
-				ProcessInitializeOnLoadMethodAttributes (125ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (294ms)
+				ProcessInitializeOnLoadMethodAttributes (97ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -153,13 +153,13 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Users/suqing/Documents/2021.3.21f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4704 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 32 unused Assets / (0.7 MB). Loaded Objects now: 5157.
-Memory consumption went from 184.5 MB to 183.8 MB.
-Total: 4.234609 ms (FindLiveObjects: 0.301693 ms CreateObjectMapping: 0.175063 ms MarkObjects: 3.274539 ms  DeleteObjects: 0.482031 ms)
+Unloading 32 unused Assets / (0.7 MB). Loaded Objects now: 5159.
+Memory consumption went from 185.2 MB to 184.5 MB.
+Total: 3.957845 ms (FindLiveObjects: 0.333770 ms CreateObjectMapping: 0.250003 ms MarkObjects: 2.863544 ms  DeleteObjects: 0.508985 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -173,145 +173,31 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 39046.050533 seconds.
-  path: Assets/Jiayu/Audio
-  artifactKey: Guid(6b07843c995b04fea93d91b72ed1c062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jiayu/Audio using Guid(6b07843c995b04fea93d91b72ed1c062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dff98bd63d4d2956e390e2b41820696') in 0.014803 seconds 
+  Time since last request: 43642.948410 seconds.
+  path: Assets/Yan/art/models/Yamaha_Rm1X_Remesh_final_0align.mtl
+  artifactKey: Guid(45198427056014c49bb7e87a2b4cc909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yan/art/models/Yamaha_Rm1X_Remesh_final_0align.mtl using Guid(45198427056014c49bb7e87a2b4cc909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c007092b0fafb3733d01dfe508cc42ee') in 0.198882 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.707581 seconds.
-  path: Assets/Jiayu/Code
-  artifactKey: Guid(d52d03b24d3a149fd92e5f764415e5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jiayu/Code using Guid(d52d03b24d3a149fd92e5f764415e5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd771b186ab8f602c506f643b33cbefd5') in 0.001151 seconds 
+  Time since last request: 37.651920 seconds.
+  path: Assets/Yan/art/models/yamaha
+  artifactKey: Guid(b153bcdb0f03b404e9b00a1d358ef204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yan/art/models/yamaha using Guid(b153bcdb0f03b404e9b00a1d358ef204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a308faa7901112f735a1b9d9be93026') in 0.001974 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.692775 seconds.
-  path: Assets/Jiayu/Level
-  artifactKey: Guid(740dabd62f39e4a89bd2443eb1bd7aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Jiayu/Level using Guid(740dabd62f39e4a89bd2443eb1bd7aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922c1edeb22eded499c88e23d9ceebfa') in 0.001216 seconds 
+  Time since last request: 12.594400 seconds.
+  path: Assets/Yan/art/textures/yamaha
+  artifactKey: Guid(663afd8d19c654e069cb964261ff7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yan/art/textures/yamaha using Guid(663afd8d19c654e069cb964261ff7b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf16a53a30559f3fa7c360fe1f30172d') in 0.001185 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 51.513242 seconds.
-  path: Assets/Yan/art
-  artifactKey: Guid(b68cb98adbdce407293723b5d942aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/art using Guid(b68cb98adbdce407293723b5d942aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b4a8acef27a8b34c1a787b06ebfdf6') in 0.001134 seconds 
+  Time since last request: 213.194048 seconds.
+  path: Assets/Yan/art/textures/yamaha/yamaha_rm1x_remesh_final_Ambient Occlusion Map from Mesh.jpg
+  artifactKey: Guid(861fceb540ffe41d489b037659c36077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yan/art/textures/yamaha/yamaha_rm1x_remesh_final_Ambient Occlusion Map from Mesh.jpg using Guid(861fceb540ffe41d489b037659c36077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a89fd616111f19c14b7faf371accb18') in 0.831440 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 27.414137 seconds.
-  path: Assets/Yan/art/materials
-  artifactKey: Guid(882b50e060595491faffbf7270e3ed6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/art/materials using Guid(882b50e060595491faffbf7270e3ed6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0c5e7b4d84d5cd8709a857ef4fc09d') in 0.001244 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 23.887680 seconds.
-  path: Assets/Yan/art/models
-  artifactKey: Guid(e67842e24366f495ea40a6d413d39cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/art/models using Guid(e67842e24366f495ea40a6d413d39cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e21ff794a8b066d663f0a436650b27') in 0.001630 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.696581 seconds.
-  path: Assets/Yan/art/materials/New Folder
-  artifactKey: Guid(1ee2ef83b96e945bba604208b7feb58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/art/materials/New Folder using Guid(1ee2ef83b96e945bba604208b7feb58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff2ebaeffe3f3c1c773f9f22bfeda3b') in 0.001618 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27.765942 seconds.
-  path: Assets/Yan/art/textures
-  artifactKey: Guid(b8103e0be610b492891313c3f5a2e367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/art/textures using Guid(b8103e0be610b492891313c3f5a2e367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50caf1d5cad1d014e94de74f6272f738') in 0.001264 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.392137 seconds.
-  path: Assets/Yan/audio
-  artifactKey: Guid(0b3302014ef874c3c91e77eb2d3627b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/audio using Guid(0b3302014ef874c3c91e77eb2d3627b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e96bdc9be6b712f0ad87ddb6b1390e21') in 0.001082 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.816669 seconds.
-  path: Assets/Yan/audio/music
-  artifactKey: Guid(134d8c7f021b541a48511d7f41db1e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/audio/music using Guid(134d8c7f021b541a48511d7f41db1e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21236c5bfc706f8f953fe193992b6f8') in 0.001254 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.254362 seconds.
-  path: Assets/Yan/audio/sound
-  artifactKey: Guid(9f22e5b78ccbb41e3ad61449441f0cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/audio/sound using Guid(9f22e5b78ccbb41e3ad61449441f0cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72404ef6cec484aad98ac81dcdc609ba') in 0.001142 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.421957 seconds.
-  path: Assets/Yan/code
-  artifactKey: Guid(f9a8f9b27bc1e4ee584fd71f14ff04dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/code using Guid(f9a8f9b27bc1e4ee584fd71f14ff04dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5bef722db1fe2c7ee5070bffbc3eb9') in 0.001156 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.331513 seconds.
-  path: Assets/Yan/code/Scripts
-  artifactKey: Guid(c7981a3a675304bcdb23298a4b413980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/code/Scripts using Guid(c7981a3a675304bcdb23298a4b413980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1674bf228d827c4463b827e294f563eb') in 0.001195 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.739841 seconds.
-  path: Assets/Yan/code/Scripts/shaders
-  artifactKey: Guid(63d37eddcd52d4bc78e9b5ee247e7430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/code/Scripts/shaders using Guid(63d37eddcd52d4bc78e9b5ee247e7430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031d2ffeacb050d1de1c3738a870ee24') in 0.001280 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.904771 seconds.
-  path: Assets/Yan/code/shaders
-  artifactKey: Guid(402418f2ef7f24b658cdc2c8c7140b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/code/shaders using Guid(402418f2ef7f24b658cdc2c8c7140b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74561115c72372310c2723d16040f4e9') in 0.001035 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.509863 seconds.
-  path: Assets/Yan/code/scripts
-  artifactKey: Guid(c7981a3a675304bcdb23298a4b413980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/code/scripts using Guid(c7981a3a675304bcdb23298a4b413980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec09ed9acc8fc9ae1e24d08abc53d3e6') in 0.001027 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.853395 seconds.
-  path: Assets/Yan/docs
-  artifactKey: Guid(9adb3d401572e442f9c034340d3c8c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/docs using Guid(9adb3d401572e442f9c034340d3c8c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a46a8bba83d0e4f64fd9f77cf2ab292') in 0.001080 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.473348 seconds.
-  path: Assets/Yan/docs/New Folder
-  artifactKey: Guid(34f2d77244869460e843a62923cf5a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/docs/New Folder using Guid(34f2d77244869460e843a62923cf5a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47df5719a37e847d2877b81120e0cbf') in 0.001127 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 20.049109 seconds.
-  path: Assets/Yan/level
-  artifactKey: Guid(9097782296f874a3a8d3142c942fe149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/level using Guid(9097782296f874a3a8d3142c942fe149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c52248214610cd87336dd7488ba91a') in 0.001116 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.973499 seconds.
-  path: Assets/Yan/level/prefabs
-  artifactKey: Guid(4340767d8ab7947f8881036afc88cf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/level/prefabs using Guid(4340767d8ab7947f8881036afc88cf73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd84ce3537e366f11142875476089ab') in 0.001167 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.337233 seconds.
-  path: Assets/Yan/level/prefabs/New Folder
-  artifactKey: Guid(9d1ca2ea7fdd54e19a6de24156431b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/level/prefabs/New Folder using Guid(9d1ca2ea7fdd54e19a6de24156431b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bfb66d110703101e2674e1060dce602') in 0.001188 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.709353 seconds.
-  path: Assets/Yan/level/scenes
-  artifactKey: Guid(d96bd53b36b8e49f08c71a52423badd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/level/scenes using Guid(d96bd53b36b8e49f08c71a52423badd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468972453be794590ab57af10996e8cc') in 0.001176 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.168918 seconds.
-  path: Assets/Yan/level/scenes/New Folder
-  artifactKey: Guid(f0085947e85a74eaa920b2fa609e6fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/level/scenes/New Folder using Guid(f0085947e85a74eaa920b2fa609e6fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfeff5f71bae165af5d4502725f8b30') in 0.001127 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.826213 seconds.
-  path: Assets/Yan/level/UI
-  artifactKey: Guid(ab4c730802a6b4652832537f040a1a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Yan/level/UI using Guid(ab4c730802a6b4652832537f040a1a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a42b1d643ecf13d41b0b46c5b2024ca') in 0.001201 seconds 
+  Time since last request: 2.983043 seconds.
+  path: Assets/Yan/art/textures/yamaha/Yamaha_Rm1X_Remesh_final.jpg
+  artifactKey: Guid(587775910e86b4ab9b581b85d78798f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yan/art/textures/yamaha/Yamaha_Rm1X_Remesh_final.jpg using Guid(587775910e86b4ab9b581b85d78798f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d871197903f6b1170b84c5519b7741') in 0.028350 seconds 
