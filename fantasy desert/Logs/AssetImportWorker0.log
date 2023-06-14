@@ -1,0 +1,261 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.26f1 (a16dc32e0ff2) revision 10579395'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16145 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/nevil/fantasy desert
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54317
+Successfully changed project path to: C:/Users/nevil/fantasy desert
+C:/Users/nevil/fantasy desert
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16356] Host "[IP] 10.8.141.101 [Port] 0 [Flags] 2 [Guid] 4089156812 [EditorId] 4089156812 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-T367IMD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [16356] Host "[IP] 10.8.141.101 [Port] 0 [Flags] 2 [Guid] 4089156812 [EditorId] 4089156812 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-T367IMD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 100.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.26f1 (a16dc32e0ff2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nevil/fantasy desert/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5968 MB
+    Driver:   31.0.15.2879
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010119 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 97.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.713 seconds
+Domain Reload Profiling:
+	ReloadAssembly (713ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (504ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (115ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (306ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (98ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (146ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017906 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\nevil\fantasy desert\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\nevil\fantasy desert\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 123.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.344 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1345ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1108ms)
+			LoadAssemblies (147ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (282ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (577ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (124ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (225ms)
+				ProcessInitializeOnLoadMethodAttributes (86ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4834 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 35 unused Assets / (1.0 MB). Loaded Objects now: 5289.
+Memory consumption went from 210.2 MB to 209.2 MB.
+Total: 4.604100 ms (FindLiveObjects: 0.366400 ms CreateObjectMapping: 0.455500 ms MarkObjects: 3.216500 ms  DeleteObjects: 0.564400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 432357.098125 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes
+  artifactKey: Guid(9bc42eddeeab478b9a99d6f255d5e8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes using Guid(9bc42eddeeab478b9a99d6f255d5e8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5969c638d3f4f5fcb811039237e763e1') in 0.008563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.282632 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes/Environment
+  artifactKey: Guid(a3e3ee8981b146c4bd787f0f39991928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes/Environment using Guid(a3e3ee8981b146c4bd787f0f39991928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76ce21d04f3c6db4d5daff41c99cdf1') in 0.002458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.217867 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes/Environment/Flag
+  artifactKey: Guid(466b622cbb0f4d26bb5936cc35b7ea60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes/Environment/Flag using Guid(466b622cbb0f4d26bb5936cc35b7ea60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d04406d5b513b4c11dd33c3a453f9f6') in 0.002263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.173678 seconds.
+  path: Assets/#NVJOB Water Shaders V2/#NVJOB Water Shaders V2/NvWaters.cginc
+  artifactKey: Guid(6fe7f708b278472289c5ca0c9bd99002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/#NVJOB Water Shaders V2/NvWaters.cginc using Guid(6fe7f708b278472289c5ca0c9bd99002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9730f71f671a75bdab0c101a63cb76') in 0.028910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.579466 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing
+  artifactKey: Guid(33fa7614a087401bab83d2a6e5b261b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing using Guid(33fa7614a087401bab83d2a6e5b261b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa78829f0f9a1cd270e02b0db226f4c') in 0.002745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.077941 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Example 1.asset
+  artifactKey: Guid(331cebf5c7c3479f80f51c1c6a5c343c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Example 1.asset using Guid(331cebf5c7c3479f80f51c1c6a5c343c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c743f62fc9ac294a3d18d942063332b2') in 0.011803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.468216 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Editor Resources
+  artifactKey: Guid(c301961de0604939923091a34d43f5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Editor Resources using Guid(c301961de0604939923091a34d43f5ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be48df4a4b6d25b4a46c9f890d6ea682') in 0.002212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.320676 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water
+  artifactKey: Guid(4d66bb35da4b4f5780bce9b06aed6027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water using Guid(4d66bb35da4b4f5780bce9b06aed6027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2939ad6ed31511d6155c0f0bcd12d2c6') in 0.001925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.275945 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Materials
+  artifactKey: Guid(44024c670b5149d2874d77f93a0a93ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Materials using Guid(44024c670b5149d2874d77f93a0a93ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e70a7df104f8d871e821fca9bc8e04') in 0.002483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.039783 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Water Specular Mirror.mat
+  artifactKey: Guid(1a127b9031564ff99a732e71b9738356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Water Specular Mirror.mat using Guid(1a127b9031564ff99a732e71b9738356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf054e388c15ee7eff0936f6b949b836') in 0.279374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Water Surface.mat
+  artifactKey: Guid(4ebf5c060eba48729e051aead702c3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Water Surface.mat using Guid(4ebf5c060eba48729e051aead702c3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096f5cd064264cab8a585746454fe7d8') in 0.021206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.879196 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Textures
+  artifactKey: Guid(b1b85bd29fe24d62a1bf404cde9af7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Textures using Guid(b1b85bd29fe24d62a1bf404cde9af7b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b406bf60448399add85c1a4a1b438c3') in 0.002632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.111722 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Textures/Cubemap.cubemap
+  artifactKey: Guid(f625b0e7682e4deaa90d46f6dbcd68a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Textures/Cubemap.cubemap using Guid(f625b0e7682e4deaa90d46f6dbcd68a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6159bea8c6079fdf98ea1f1d88b18ec1') in 0.073088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Textures/Water N 1.png
+  artifactKey: Guid(b4b23fc51ba94ffab43b9704acdd1bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Materials/Textures/Water N 1.png using Guid(b4b23fc51ba94ffab43b9704acdd1bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e25be97a39eb02e40e57ca165eed7c0') in 0.027811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.201788 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Examples Water/Prefabs/Water Specular.prefab
+  artifactKey: Guid(a3b85ee7155343c0a5077c56fdbddf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Examples Water/Prefabs/Water Specular.prefab using Guid(a3b85ee7155343c0a5077c56fdbddf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c033951ba25a3678a9333972b605579') in 0.041099 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
