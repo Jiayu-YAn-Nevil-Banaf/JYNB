@@ -36,56 +36,56 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/DynamicShadowSettings.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/LerpControlledBob.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/PlatformSpecificContent.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/DynamicShadowSettings.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/LerpControlledBob.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/PlatformSpecificContent.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/TimedObjectActivator.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/CurveControlledBob.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/AutoMoveAndRotate.cs" />
+     <Compile Include="Assets/NEVIL/download asset/LowPolyLight/Effect/Bloom.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Characters/Scripts/FirstPersonController.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/WaypointCircuit.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/WaypointProgressTracker.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Scripts/SwitchMoveCorridor1.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/AutoMobileShaderSwitch.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/AlphaButtonClickMask.cs" />
+     <Compile Include="Assets/NEVIL/download asset/KY_effects/Script/ConGUI.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/EventSystemChecker.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Contents/Scripts/LEDNode.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Scripts/SwitchMoveCorridor2.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" />
      <Compile Include="Assets/bloom.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" />
-     <Compile Include="Assets/KY_effects/Script/Lighting.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/TimedObjectActivator.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/CameraRefocus.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/CurveControlledBob.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Characters/Scripts/MouseLook.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/AutoMoveAndRotate.cs" />
-     <Compile Include="Assets/LowPolyLight/Effect/Bloom.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/FPSCounter.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/SimpleActivatorMenu.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Characters/Scripts/FirstPersonController.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/SimpleMouseRotator.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/SmoothFollow.cs" />
+     <Compile Include="Assets/NEVIL/download asset/KY_effects/Script/Lighting.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/CameraRefocus.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Characters/Scripts/MouseLook.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/FPSCounter.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/SimpleMouseRotator.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/SmoothFollow.cs" />
      <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/WaypointCircuit.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/TimedObjectDestructor.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/WaypointProgressTracker.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/DragRigidbody.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/FollowTarget.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Scripts/SwitchMoveCorridor1.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ForcedReset.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ParticleSystemDestroyer.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ObjectResetter.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/AutoMobileShaderSwitch.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/AlphaButtonClickMask.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/FOVKick.cs" />
-     <Compile Include="Assets/KY_effects/Script/ConGUI.cs" />
-     <Compile Include="Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/EventSystemChecker.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ActivateTrigger.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Contents/Scripts/LEDNode.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Scripts/SwitchMoveCorridor2.cs" />
-     <Compile Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" />
-     <None Include="Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt" />
-     <None Include="Assets/LowPolyLight/Effect/Bloom.shader" />
-     <None Include="Assets/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/ParticleSystems/Shaders/PriorityParticleAdd.shader" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/TimedObjectDestructor.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/DragRigidbody.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/FollowTarget.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ForcedReset.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ObjectResetter.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/FOVKick.cs" />
+     <Compile Include="Assets/Banafsheh/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/Utility/ActivateTrigger.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" />
+     <Compile Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" />
+     <None Include="Assets/NEVIL/download asset/KY_effects/MagicEffectsPackFree/ReadMe.txt" />
+     <None Include="Assets/NEVIL/download asset/LowPolyLight/Effect/Bloom.shader" />
+     <None Include="Assets/NEVIL/download asset/Tomerinio/LEDLightBlocks/Example Scene/Standard Assets/ParticleSystems/Shaders/PriorityParticleAdd.shader" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -333,19 +333,19 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -719,149 +719,161 @@
     <Reference Include="mscorlib">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="PPv2URPConverters">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+    <Reference Include="Unity.XR.CoreUtils.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PPv2URPConverters">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Interaction.Toolkit">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.OpenXR.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.CoreUtils">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Interaction.Toolkit.Editor">
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
