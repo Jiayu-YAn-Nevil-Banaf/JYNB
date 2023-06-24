@@ -296,43 +296,43 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.burst@1.8.2/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -716,166 +716,166 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.21f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PPv2URPConverters">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/Users/kes/Downloads/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/Users/kes/Documents/GitHub/JYNB/Architecture/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
